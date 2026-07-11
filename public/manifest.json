@@ -1,7 +1,7 @@
 {
   "name": "Muscle Password",
   "description": "Strong random password generator for Chrome extension",
-  "version": "0.2.3",
+  "version": "0.3.1",
   "manifest_version": 3,
   "permissions": [
     "contextMenus",
